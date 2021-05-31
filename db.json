@@ -3,7 +3,20 @@
     {
       "id": 1,
       "name": "Telescopio",
-      "image": ""
+      "image": "https://images-v2.rappi.com/products/2091731502-1586838870195.png?d=240x240",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "name": "Proveta",
+      "image": "https://cdn.awsli.com.br/600x450/874/874479/produto/40784050d745516d7b.jpg",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "name": "Alcohol",
+      "image": "https://www.lafarmacoteca.es/1108-home_default/acofar-alcohol-etilico-96-reforzado-250-ml.jpg",
+      "stock": 0
     }
   ]
 }
